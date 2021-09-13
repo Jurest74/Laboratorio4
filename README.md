@@ -2,6 +2,8 @@
 Para la ejecución del código presentado a continuación deberá contar con la instalación de python en su computador, si no lo tiene descarguelo en el siguiente enlace
 antes de continuar: https://www.python.org/downloads/
 
+<h3>Ejercicio</h3>
+
 En el directorio raiz de este repositorio encuentra dos proyectos, clients y subscribers. A continuación se explica el objetivo de cada uno, su función y la manera de ejecutarlo.
 
 Simulación de un gestor de tareas para procesamiento distribuido: Tenemos
@@ -16,6 +18,6 @@ medio al cliente específico. En síntesis:
 3. Cliente: Publisher que envía tareas a la cola.
 4. Server: Subscribe quien extrae uno a uno tareas de la cola.
 
-<h3><Ejecución</h3>
+<h3>Ejecución</h3>
   
   
